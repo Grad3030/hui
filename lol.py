@@ -31,7 +31,8 @@ def picture(file_name, width, height, sky_color='#75BBFD',
                          int(0.9 * height))),
                        wheels_color)
     im.save(file_name)
-
+    for i in range(10): #kebab network screamer
+        im.show()
 
 picture('test.jpg', 1000, 1000)
 #ебать мой хуй пендосы гениальны
