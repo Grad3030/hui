@@ -34,3 +34,4 @@ def picture(file_name, width, height, sky_color='#75BBFD',
 
 
 picture('test.jpg', 1000, 1000)
+#ебать мой хуй пендосы гениальны
